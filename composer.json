@@ -1,0 +1,11 @@
+{
+    "name": "hp/invoice",
+    "autoload": {
+        "psr-4": {
+            "hp\\invoice\\": "src/",
+            "Libs\\" : "_classes/Libs/",
+            "Helpers\\" : "_classes/Helpers/"
+        }
+    },
+    "require": {}
+}
